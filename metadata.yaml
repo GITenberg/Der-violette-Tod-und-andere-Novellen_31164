@@ -1,0 +1,33 @@
+_repo: Der-violette-Tod-und-andere-Novellen_31164
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meyrink, Gustav
+    alias: Meyer-Meyrink, Gustav
+    birthdate: 1868
+    deathdate: 1932
+    gutenberg_agent_id: '35032'
+    url: http://www.gutenberg.org/2009/agents/35032
+    wikipedia: http://en.wikipedia.org/wiki/Gustav_Meyrink
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31164'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Short stories'
+- !lcsh 'Fantasy fiction, Austrian'
+tableOfContents: Das dicke Wasser -- Die Urne von St. Gingolph -- Das ganze Sein ist
+  flammend Leid -- Das Automobil -- Blamol -- Bocksäure -- Das Fieber -- Der violette
+  Tod.
+title: Der violette Tod, und andere Novellen
+url: http://www.gutenberg.org/ebooks/31164
